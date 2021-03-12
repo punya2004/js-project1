@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: flexbox;
+    padding: 50px;
+    background-color: #D1D5DB;
+    border-radius: 1rem;  
+}
+
+#container > button {
+    display: inline;
+    border-radius: 1rem;
+    padding: 40px;
+    background-color: #4B5563;
+    color: antiquewhite; 
+    margin: 10px;
+    font-size: x-large;
+}
+
+.card {
+    width: 6%;
+    padding: 6rem;
+    margin: 32px auto;   
+    border-radius: 1rem;
+    background-color: #374151;
+    color: #E5E7EB;
+    font-weight: bolder;
+    font-size: 5rem;
+}
